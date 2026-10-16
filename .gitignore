@@ -20,3 +20,5 @@ dist/
 backend/.venv/
 __pycache__/
 *.py[cod]
+backend/*.db
+!.env.example
